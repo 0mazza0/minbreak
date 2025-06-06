@@ -1,3 +1,4 @@
 {
-  "flag": "MB{EXEMPLE_DE_FLAG}"
+  "name": "test",
+  "data": [1, 2, 3]
 }
